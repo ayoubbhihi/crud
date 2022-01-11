@@ -1,0 +1,4 @@
+composer init
+composer require vlucas/phpdotenv
+composer require symfony/var-dumper
+composer dump-autoload
